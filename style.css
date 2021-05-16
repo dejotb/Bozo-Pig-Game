@@ -21,6 +21,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  overflow: hidden;
 }
 
 /* LAYOUT */
@@ -61,7 +62,7 @@ main {
   position: fixed;
   right: -10%;
   bottom: -8%;
-  width: 800px;
+  width: 40%;
   transform: rotate(-30deg);
 }
 
